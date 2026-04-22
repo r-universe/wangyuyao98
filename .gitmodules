@@ -8,3 +8,7 @@
 [submodule "truncAIPW"]
 	path = truncAIPW
 	url = https://github.com/cran/truncAIPW
+[submodule "truncProxy"]
+	path = truncProxy
+	url = https://github.com/wangyuyao98/truncproxy_weighting
+	subdir = pkg/truncProxy
